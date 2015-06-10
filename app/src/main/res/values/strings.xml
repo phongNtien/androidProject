@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vyletnik</string>
+    <string name="title">Výletnik</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="title_activity_photos">PhotosActivity</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="listOfRecords">List Of Records</string>
+    <string name="photos">Photos</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation_drawer">navigationDrawerActivity</string>
+
+    <string-array name="navigationItems">
+        <item>Home</item>
+        <item>Gallery</item>
+        <item>Compass</item>
+    </string-array>
+
+    <string name="openDrawer">Otvoriť</string>
+    <string name="closeDrawer">Zatvoriť</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="VytvaranieEmailomText">Vytváranie containerov je momentálne riešené emailom.</string>
+    <string name="MenoContaineraText">Meno Containera</string>
+    <string name="ArchitekturaContainerText">Architektúra Containera</string>
+    <string name="DistribuciaContaineraText">Distribúcia Containera</string>
+
+</resources>

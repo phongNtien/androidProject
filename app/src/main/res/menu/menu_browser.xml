@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="sk.upjs.ics.s.vyletnik.BrowserActivity">
+
+    <item android:id="@+id/action_add"
+        android:title="Add record"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"
+        />
+</menu>

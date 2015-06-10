@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidCameraUtil/AndroidCameraUtil.iml" filepath="$PROJECT_DIR$/AndroidCameraUtil/AndroidCameraUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidCameraUtil2/AndroidCameraUtil2.iml" filepath="$PROJECT_DIR$/AndroidCameraUtil2/AndroidCameraUtil2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vyletnik.iml" filepath="$PROJECT_DIR$/Vyletnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
+
